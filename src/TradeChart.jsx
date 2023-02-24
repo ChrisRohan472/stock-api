@@ -52,7 +52,6 @@ export default function TradingViewWidget() {
   return (
     <div className="tradingview-widget-container">
       <div id="tradingview_5f42b" />
-     
     </div>
   );
 }
